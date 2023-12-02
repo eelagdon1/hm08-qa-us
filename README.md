@@ -15,5 +15,6 @@ instructions:
     11. Write a syntax in JavaScript to order a blanet and handkerchief.
     12. Write a syntax in JavaScript to order 2 orders of ice cream.
     13. Write a syntax in JavaScript to wait for the car search modal to appear.
+    14. To run the test, write command "npm run wdio" in the terminal in the "hm08-qa-us" directory.
 
 Please advise, my WebdriverIO does not work with Chrome.
